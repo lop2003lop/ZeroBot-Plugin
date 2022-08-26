@@ -55,7 +55,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"      // 服务器监控
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"      // 服务器监控
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"        // 随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"           // base16384加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"         // 百度一下
@@ -75,9 +75,10 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"          // 渲染任意文字到图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"       // 运势
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"         // 笑话
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"       // 原神抽卡
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
+
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"       // 原神抽卡
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif" // 制图
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"            // 炉石
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"         // 百人一首
@@ -115,7 +116,8 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun"     // 网易云音乐热评
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"    // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"        // 猜单词
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
+
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 
